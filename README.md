@@ -40,3 +40,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamarasuruthvik&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamarasuruthvik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Blog Posts & YT Videos : 
+- [DOM for Dummies: Beginners Introduction with a LinkedIn script](https://axelblaze0510.hashnode.dev/dom-for-dummies#ckxiis01o079qhts1dve616o0)
+- [Housing guide for SJSU international Students: Part 1](https://www.youtube.com/watch?v=6_KRTYv6J3E)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
